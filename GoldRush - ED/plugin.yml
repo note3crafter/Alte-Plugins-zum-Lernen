@@ -1,0 +1,12 @@
+name: GoldRush
+main: EnderDirt\GoldRush
+version: 1.0.0
+api: 3.0.0-ALPHA10
+author: EnderDirt
+commands:
+  GoldRush:
+    description: GoldRush Command
+    aliases: [gr]
+  Start:
+    description: Start Command
+    aliases: [start]

@@ -1,0 +1,9 @@
+name: eManager
+main: EnderDirt\Manager
+version: 1.0.0
+api: 3.0.0-ALPHA10
+author: EnderDirt
+commands:
+  Server:
+    description: Server Command
+    aliases: [server]

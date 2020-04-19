@@ -1,0 +1,36 @@
+name: FarmWelt
+main: EnderDirt\FarmWelt
+version: 1.0.0
+api: 3.0.0-ALPHA10
+author: EnderDirt
+commands:
+  Spawn:
+    description: Spawn Command
+    aliases: [spawn]
+  CopyWorld:
+    description: CopyWorld Command
+    aliases: [copyworld]
+  Farmwelt:
+    description: Farmwelt Command
+    aliases: [farmwelt]
+  Nether:
+    description: Nether Command
+    aliases: [nether]
+  End:
+    description: End Command
+    aliases: [end]
+  SetWorld:
+    description: SetWorld Command
+    aliases: [setworld]
+  Food:
+    description: Gibt Food Command
+    aliases: [food]
+  Fly:
+    description: Fly Command
+    aliases: [fly]
+  Position:
+    description: Koordination Command
+    aliases: [position]
+  Tpa:
+    description: Tpa Command
+    aliases: [tpa]

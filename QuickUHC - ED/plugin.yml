@@ -1,0 +1,12 @@
+name: QuickUHC
+main: EnderDirt\QuickUHC
+version: 1.0.0
+api: 3.0.0-ALPHA11
+author: EnderDirt
+commands:
+  QuickUHC:
+    description: QuickUHC Command
+    aliases: [quhc]
+  Start:
+    description: Start Command
+    aliases: [start]

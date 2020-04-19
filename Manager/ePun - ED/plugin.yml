@@ -1,0 +1,12 @@
+name: ePun
+main: EnderDirt\Pun
+version: 1.0.0
+api: 3.0.0-ALPHA10
+author: EnderDirt
+commands:
+  Pun:
+    description: Ban Command
+    aliases: [pun]
+  Unpun:
+    description: Unban Command
+    aliases: [unpun]

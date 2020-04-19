@@ -1,0 +1,15 @@
+name: QuickSurvivalGames
+main: EnderDirt\QuickSurvivalGames
+version: 1.0.0
+api: 3.0.0-ALPHA11
+author: EnderDirt
+commands:
+  QuickSurvivalGames:
+    description: QuickSurvivalGames Command
+    aliases: [qsg]
+  Start:
+    description: Start Command
+    aliases: [start]
+  Stats:
+    description: Stats Command
+    aliases: [stats]

@@ -1,0 +1,12 @@
+name: Envo
+main: EnderDirt\Envo
+version: 1.0.0
+api: 3.0.0-ALPHA10
+author: EnderDirt
+commands:
+  Envo:
+    description: Envo Command
+    aliases: [envo]
+  Start:
+    description: Start Command
+    aliases: [start]

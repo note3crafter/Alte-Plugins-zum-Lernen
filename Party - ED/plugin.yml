@@ -1,0 +1,9 @@
+name: Party
+main: EnderDirt\Party
+version: 1.0.0
+api: 3.0.0-ALPHA12
+author: EnderDirt
+commands:
+  Party:
+    description: Party Command
+    aliases: [party]

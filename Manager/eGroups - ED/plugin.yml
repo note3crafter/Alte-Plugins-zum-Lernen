@@ -1,0 +1,21 @@
+name: eGroups
+main: EnderDirt\Main
+version: 1.0.0
+api: 3.0.0-ALPHA10
+author: EnderDirt
+commands:
+  Group:
+    description: Group Command
+    aliases: [g]
+  Nick:
+    description: Nick Command
+    aliases: [nick]
+  Unnick:
+    description: Unnick Command
+    aliases: [unnick]
+  Clan:
+    description: Clan Command
+    aliases: [clan]
+  VIP:
+    description: VIP Command
+    aliases: [vip]

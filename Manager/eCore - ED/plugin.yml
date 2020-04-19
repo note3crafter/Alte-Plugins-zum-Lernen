@@ -1,0 +1,9 @@
+name: eCore
+main: EnderDirt\Core
+version: 1.0.0
+api: 3.0.0-ALPHA10
+author: EnderDirt
+commands:
+  Build:
+    description: Build Command
+    aliases: [build]

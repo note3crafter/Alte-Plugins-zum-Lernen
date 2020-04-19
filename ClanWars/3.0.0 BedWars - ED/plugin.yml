@@ -1,0 +1,12 @@
+name: BedWars
+main: EnderDirt\BedWars
+version: 1.0.0
+api: 3.0.0
+author: EnderDirt
+commands:
+  BedWars:
+    description: BedWars Command
+    aliases: [bw]
+  Start:
+    description: Start Command
+    aliases: [start]

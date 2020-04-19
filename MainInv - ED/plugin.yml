@@ -1,0 +1,9 @@
+name: MainInv
+main: EnderDirt\MainInv
+version: 1.0.0
+api: 3.0.0-ALPHA12
+author: EnderDirt
+commands:
+  Inventory:
+    description: MLGRush Inventory Command
+    aliases: [inv]

@@ -1,0 +1,9 @@
+name: BuildPlayer
+main: EnderDirt\BuildPlayer
+version: 1.0.0
+api: 3.0.0-ALPHA12
+author: EnderDirt
+commands:
+  Block:
+    description: SetBlock Command
+    aliases: [block]

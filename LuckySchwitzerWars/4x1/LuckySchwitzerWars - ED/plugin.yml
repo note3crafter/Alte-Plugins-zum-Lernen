@@ -1,0 +1,12 @@
+name: LuckySchwitzerWars
+main: EnderDirt\LuckySchwitzerWars
+version: 1.0.0
+api: 3.0.0-ALPHA10
+author: EnderDirt
+commands:
+  LuckySchwitzerWars:
+    description: LuckySchwitzerWars Command
+    aliases: [lsw]
+  Start:
+    description: Start Command
+    aliases: [start]
