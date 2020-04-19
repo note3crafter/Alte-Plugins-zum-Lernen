@@ -1,0 +1,12 @@
+name: SkyWars
+main: EnderDirt\SkyWars
+version: 1.0.0
+api: 3.0.0-ALPHA11
+author: EnderDirt
+commands:
+  SkyWars:
+    description: SkyWars Command
+    aliases: [sw]
+  Start:
+    description: Start Command
+    aliases: [start]

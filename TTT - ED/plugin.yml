@@ -1,0 +1,15 @@
+name: TTT
+main: EnderDirt\TroubleTerroristTown
+version: 1.0.0
+api: 3.0.0-ALPHA11
+author: EnderDirt
+commands:
+  TTT:
+    description: TTT Command
+    aliases: [ttt]
+  Start:
+    description: Start Command
+    aliases: [start]
+  Pass:
+    description: Pass Command
+    aliases: [pass]

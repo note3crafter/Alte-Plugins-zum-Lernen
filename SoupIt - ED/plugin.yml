@@ -1,0 +1,12 @@
+name: SoupIt
+main: EnderDirt\SoupIt
+version: 1.0.0
+api: 3.0.0-ALPHA9
+author: EnderDirt
+commands:
+  SoupIt:
+    description: SoupIt Command
+    aliases: [sit]
+  Start:
+    description: Start Command
+    aliases: [start]

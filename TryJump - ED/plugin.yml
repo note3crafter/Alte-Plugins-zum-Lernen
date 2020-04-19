@@ -1,0 +1,15 @@
+name: TryJump
+main: EnderDirt\TryJump
+version: 1.0.0
+api: 3.0.0-ALPHA11
+author: EnderDirt
+commands:
+  TryJump:
+    description: TryJump Command
+    aliases: [tj]
+  Start:
+    description: Start Command
+    aliases: [start]
+  Skip:
+    description: Skip Command
+    aliases: [skip]

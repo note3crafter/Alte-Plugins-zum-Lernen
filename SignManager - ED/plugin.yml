@@ -1,0 +1,9 @@
+name: SignManager
+main: EnderDirt\SignManager
+version: 1.0.0
+api: 3.0.0-ALPHA11
+author: EnderDirt
+commands:
+  SignManager:
+    description: SignManager Command
+    aliases: [sm]

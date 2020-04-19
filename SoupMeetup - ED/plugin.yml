@@ -1,0 +1,15 @@
+name: SoupMeetup
+main: EnderDirt\SoupMeetup
+version: 1.0.0
+api: 3.0.0-ALPHA10
+author: EnderDirt
+commands:
+  SoupMeetup:
+    description: SoupMeetup Command
+    aliases: [smp]
+  Start:
+    description: Start Command
+    aliases: [start]
+  Stats:
+    description: Stats Command
+    aliases: [stats]
