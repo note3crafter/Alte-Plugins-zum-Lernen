@@ -2,4 +2,4 @@ Diese Plugin könnt ihr zum Lernen benutzen denn es ggibt vieles was man daraus 
 
 Diese Plugins liefen einst auf dem server EnderCube der damals sehr Cool und erfolgreich war!
 
-Diese Plugins hat EnderDirt selbst veröffneflicht und den Usern bereitgestellt!
+Diese Plugins hat EnderDirt selbst veröffentlicht und den Usern bereitgestellt!
